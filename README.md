@@ -19,3 +19,7 @@ Before running the program, ensure you have the following installed:
 ## Contribution
 
 Contributions are welcome! If you have ideas for improvements, find any issues, or want to contribute in any way, please feel free to open a pull request or create an issue.
+
+## Screenshot
+
+![Alt Text](https://github.com/SandeepVashishtha/KnightTraversal/blob/main/Screenshot_2023-11-18-20-10-50-953_com.microsoft.office.officehubrow.png?raw=true)
